@@ -1,9 +1,28 @@
-Slides
-======
+Slides for talks - Bérénice Batut
+=================================
 
-# Slide generation
+This repository served the slides for my talks.
 
-The slides are written in markdown ([slides.md](slides.md)) and rendered using [reveal.js](https://github.com/hakimel/reveal.js/).
+
+Year | Date | Event | Location | Title
+--- | --- | --- | --- | ---
+[2017](17/) | 23.11 | Backofen Lab meeting | Freiburg | [Beer Decoded-Exploring the beer metagenome](17/11_23_backofen_lab_meeting)
+
+
+# Usage
+
+The slides are written in markdown ([slides.md](slides.md)), rendered using [reveal.js](https://github.com/hakimel/reveal.js/) and served using GitHub on http://bebatut.fr/talk_slides/
+
+## Requirements
+
+Reveal.js is added here as a submodule:
+
+```
+$ git submodule init
+$ git submodule update
+```
+
+## Slide generation
 
 To visualize the slides, you need to launch a local server:
 
@@ -13,4 +32,4 @@ $ python -m http.server
 
 and then open any web browser at the adress: [http://localhost:8000](http://localhost:8000).
 
-# PDF generation
+## PDF generation
