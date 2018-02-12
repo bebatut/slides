@@ -16,12 +16,18 @@ The slides are written in markdown ([slides.md](slides.md)), rendered using [rev
 
 ## Requirements
 
-Reveal.js is added here as a submodule:
+- Reveal.js is added here as a submodule:
 
-```
-$ git submodule init
-$ git submodule update
-```
+    ```
+    $ git submodule init
+    $ git submodule update
+    ```
+
+- Decktape to extract
+
+    ```
+    $ npm install decktape
+    ```
 
 ## Slide generation
 
@@ -34,3 +40,8 @@ $ python -m http.server
 and then open any web browser at the adress: [http://localhost:8000](http://localhost:8000).
 
 ## PDF generation
+
+```
+$ `npm bin`/decktape reveal --size 1280x900 <URL on http://localhost:8000/> <path to slides>
+```
+
