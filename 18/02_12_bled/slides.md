@@ -72,14 +72,33 @@ Graphs of [Brazas et al, 2017](http://biorxiv.org/content/early/2017/02/27/09899
 ![](images/training_material_infra_1.png) <!-- .element width="90%" -->
 
 ----
+### Separation between content and format
+
+![](images/tutorial_rendering.png) <!-- .element width="120%" -->
+
+----
 ### An open, collaborative, FAIR, online infrastructure
 
 ![](images/training_material_infra_2.png) <!-- .element width="90%" -->
 
 ----
+### Findable material via TeSS
+
+![](images/TeSS_search.png) <!-- .element width="90%" -->
+
+<small>https://tess.elixir-europe.org/</small>
+
+----
 ### An open, collaborative, FAIR, online infrastructure
 
 ![](images/training_material_infra_3.png) <!-- .element width="90%" -->
+
+----
+### Storage of training datasets on Zenodo
+
+![](images/zenodo.png) <!-- .element width="90%" -->
+
+<small>https://zenodo.org/</small>
 
 ----
 ### An open, collaborative, FAIR, online infrastructure
@@ -106,13 +125,14 @@ Graphs of [Brazas et al, 2017](http://biorxiv.org/content/early/2017/02/27/09899
 ----
 <!-- .slide: data-background-color="#000000" data-background="images/contributors.png" data-state="dim-background-2"-->
 
-<br/>
-<h2 class="fragment" data-fragment-index="2">THANKS to all of them!</h2>
-
 ---
 ## Thank you!
 
-![](images/training_material_infra_6.png) <!-- .element width="90%" -->
+![](images/training_material_infra_6.png) <!-- .element width="60%" -->
+
+An open, collaborative, FAIR, online infrastructure<br>
+<i class="fa fa-globe"></i> [training.galaxyproject.org](http://training.galaxyproject.org)<br> 
+<i class="fa fa-github"></i> [github.com/galaxyproject/training-material](http://github.com/galaxyproject/training-material) 
 
 ---
 <!-- .slide: data-background="images/osi.jpg"  data-state="dim-background"-->
