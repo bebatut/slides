@@ -10,7 +10,7 @@ The easiest way to navigate this slide deck is by hitting `[space]`on your keybo
 
 ### Community-driven training for biological data analysis with the Galaxy Training Network
 
-![Cover art](images/cover_art.png) <!-- .element width="65%" -->
+![Cover art](images/cover_art.png) <!-- .element width="60%" -->
 
 Bérénice Batut
 
@@ -123,7 +123,7 @@ https://training.galaxyproject.org
 ----
 ### A collection of materials covering many topics
 
-![Boxes with the different topics and number of tutorials and slides for each topic](images/topics.png) <!-- .element width="100%" -->
+![Boxes with the different topics and number of tutorials and slides for each topic](images/topics.png) <!-- .element width="95%" -->
 
 More than 80 tutorials!
 
@@ -136,12 +136,27 @@ Categorie "Transcriptomics"
 - ... hands-on tutorials
 - 
 
----
-### Used both by individual users & instructors
+----
+### Used both by instructors
 
-Pictures??
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Use the <a href="https://twitter.com/hashtag/usegalaxy?src=hash&amp;ref_src=twsrc%5Etfw">#usegalaxy</a> training material for MiModD at <a href="https://t.co/3dh6o3s5hL">https://t.co/3dh6o3s5hL</a> and read <a href="https://t.co/qCKACebjpw">https://t.co/qCKACebjpw</a> to get started with MiModD on public servers</p>&mdash; MiModD (@MiModDNews) <a href="https://twitter.com/MiModDNews/status/978631092558356481?ref_src=twsrc%5Etfw">27 mars 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Emails
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Our Guardians of the galaxy a.k.a. bioinformaticians are at the university <a href="https://twitter.com/hashtag/Freiburg?src=hash&amp;ref_src=twsrc%5Etfw">#Freiburg</a> giving an <a href="https://twitter.com/hashtag/usegalaxy?src=hash&amp;ref_src=twsrc%5Etfw">#usegalaxy</a> workshop. <a href="https://twitter.com/fidel_ramirez?ref_src=twsrc%5Etfw">@fidel_ramirez</a> <a href="https://twitter.com/vivekbhr?ref_src=twsrc%5Etfw">@vivekbhr</a> <a href="https://t.co/taajI2ADub">https://t.co/taajI2ADub</a></p>&mdash; MPI-IE Freiburg (@mpi_ie) <a href="https://twitter.com/mpi_ie/status/968521825876631552?ref_src=twsrc%5Etfw">27 février 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">.<a href="https://twitter.com/bjoerngruening?ref_src=twsrc%5Etfw">@bjoerngruening</a> starting the <a href="https://twitter.com/hashtag/usegalaxy?src=hash&amp;ref_src=twsrc%5Etfw">#usegalaxy</a> HTS training week with introduction to <a href="https://twitter.com/galaxyproject?ref_src=twsrc%5Etfw">@galaxyproject</a> - <a href="https://twitter.com/denbiOffice?ref_src=twsrc%5Etfw">@denbiOffice</a> <a href="https://t.co/5eEdU129QP">pic.twitter.com/5eEdU129QP</a></p>&mdash; Bérénice Batut (@bebatut) <a href="https://twitter.com/bebatut/status/968093992578580480?ref_src=twsrc%5Etfw">26 février 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Kicking off <a href="https://twitter.com/hashtag/usegalaxy?src=hash&amp;ref_src=twsrc%5Etfw">#usegalaxy</a> <a href="https://twitter.com/hashtag/microbiome?src=hash&amp;ref_src=twsrc%5Etfw">#microbiome</a> workshop at University of Costa Rica. Looking forward to arrival of <a href="https://twitter.com/SarahJCCraig?ref_src=twsrc%5Etfw">@SarahJCCraig</a> &amp; <a href="https://twitter.com/DBlankenberg?ref_src=twsrc%5Etfw">@DBlankenberg</a>. Thx to Rebeca Campos Sanchez for invite! <a href="https://t.co/1GEEj968JC">pic.twitter.com/1GEEj968JC</a></p>&mdash; Kateryna (@MakovaLab) <a href="https://twitter.com/MakovaLab/status/949430737127780353?ref_src=twsrc%5Etfw">6 janvier 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/denbi?src=hash&amp;ref_src=twsrc%5Etfw">#denbi</a> de.STAIR training on RNA-Seq data analysis at <a href="https://twitter.com/kieluni?ref_src=twsrc%5Etfw">@kieluni</a> <a href="https://twitter.com/denbiOffice?ref_src=twsrc%5Etfw">@denbiOffice</a> <a href="https://twitter.com/hashtag/usegalaxy?src=hash&amp;ref_src=twsrc%5Etfw">#usegalaxy</a> <a href="https://t.co/FeDrsP6aAP">https://t.co/FeDrsP6aAP</a> <a href="https://t.co/GW7TqsSIAk">pic.twitter.com/GW7TqsSIAk</a></p>&mdash; de.STAIR (@denbi_deSTAIR) <a href="https://twitter.com/denbi_deSTAIR/status/971327360355139587?ref_src=twsrc%5Etfw">7 mars 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+----
+### Used both by instructors & individual users
 
 ---
 ### Requirements for a training infrastructure
@@ -177,18 +192,41 @@ https://training.galaxyproject.org
 ----
 ### Creating a tutorial
 
+<iframe src="http://galaxyproject.github.io/training-material/topics/training/"
+height="450" width="100%" style="border:2px solid grey;">
+</iframe>
+
+http://galaxyproject.github.io/training-material/topics/training/
+
 Note:
 
-- Creating a small tutorial
-    - creating a directory from the templates
-    - following the tutorial
-        - filling the metadata
-        - filling the tutorial
-            - small introduction
-            - a hands-on box
-            - a question box
-            - an image
-        - visualizing it locally
+Creating a small tutorial
+
+- Copy tutorial1 from the templates and put it into `sequence-analysis`
+- Change the top metadata
+- Change the topic metadata
+    - `title: Similarity search with BLAST`
+    - `type: "tutorial"`
+    - `name: "similarity-search"`
+    - `zenodo_link: ""` (we do not have data currently)
+    - `galaxy_tour: no` (we do not have Galaxy Interactive Tour currently)
+    - `hands_on: yes`
+    - `slides: no`
+    - `workflows: no`
+    - `requirements`: a requirement to "Galaxy introduction" with internal link to `introduction`
+- Serve the website locally
+- Add the top metadata
+    - questions:
+      - "How to find similar sequences into a reference set of sequences?"
+    - objectives:
+      - "Search similar sequences with BLAST"
+- Filling the tutorial
+    - Finding a good toy dataset
+    - filling the tutorial
+        - small introduction
+        - a hands-on box
+        - a question box
+        - an image
 
 ----
 ### Galaxy Tour Builder
@@ -198,10 +236,19 @@ Note:
 
 https://github.com/TailorDev/galaxy-tourbuilder
 
+Note:
+
+Demo
+- New Env
+- Upload: https://zenodo.org/record/1185122/files/Drosophila_melanogaster.BDGP6.87.gene_lengths
+- Search tool
+
 ----
 ### One GitHub repository to collect everything
 
 ![](images/infra_1.png) <!-- .element width="90%" -->
+
+https://github.com/galaxyproject/training-material
 
 ----
 ### An open and accessible development process
@@ -229,7 +276,7 @@ Gitter: [Galaxy-Training-Network/Lobby](https://gitter.im/Galaxy-Training-Networ
 ----
 ### Community-driven
 
-PR? Issues? Contributors? Hackathons?
+PR? Issues?
 
 ----
 ### Ensuring accessibility of tutorials
@@ -276,6 +323,9 @@ https://tess.elixir-europe.org/
         <p><i class="fa fa-check-square-o"></i> Open</p>
     </li>
 </ul>
+
+---
+### Next steps?
 
 ---
 <!-- .slide: data-background-color="#000000" data-background="images/contributors.png" data-state="dim-background-2"-->
