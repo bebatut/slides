@@ -137,26 +137,19 @@ Categorie "Transcriptomics"
 - 
 
 ----
-### Used both by instructors
+### Used both by individual users
 
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Use the <a href="https://twitter.com/hashtag/usegalaxy?src=hash&amp;ref_src=twsrc%5Etfw">#usegalaxy</a> training material for MiModD at <a href="https://t.co/3dh6o3s5hL">https://t.co/3dh6o3s5hL</a> and read <a href="https://t.co/qCKACebjpw">https://t.co/qCKACebjpw</a> to get started with MiModD on public servers</p>&mdash; MiModD (@MiModDNews) <a href="https://twitter.com/MiModDNews/status/978631092558356481?ref_src=twsrc%5Etfw">27 mars 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Our Guardians of the galaxy a.k.a. bioinformaticians are at the university <a href="https://twitter.com/hashtag/Freiburg?src=hash&amp;ref_src=twsrc%5Etfw">#Freiburg</a> giving an <a href="https://twitter.com/hashtag/usegalaxy?src=hash&amp;ref_src=twsrc%5Etfw">#usegalaxy</a> workshop. <a href="https://twitter.com/fidel_ramirez?ref_src=twsrc%5Etfw">@fidel_ramirez</a> <a href="https://twitter.com/vivekbhr?ref_src=twsrc%5Etfw">@vivekbhr</a> <a href="https://t.co/taajI2ADub">https://t.co/taajI2ADub</a></p>&mdash; MPI-IE Freiburg (@mpi_ie) <a href="https://twitter.com/mpi_ie/status/968521825876631552?ref_src=twsrc%5Etfw">27 février 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">.<a href="https://twitter.com/bjoerngruening?ref_src=twsrc%5Etfw">@bjoerngruening</a> starting the <a href="https://twitter.com/hashtag/usegalaxy?src=hash&amp;ref_src=twsrc%5Etfw">#usegalaxy</a> HTS training week with introduction to <a href="https://twitter.com/galaxyproject?ref_src=twsrc%5Etfw">@galaxyproject</a> - <a href="https://twitter.com/denbiOffice?ref_src=twsrc%5Etfw">@denbiOffice</a> <a href="https://t.co/5eEdU129QP">pic.twitter.com/5eEdU129QP</a></p>&mdash; Bérénice Batut (@bebatut) <a href="https://twitter.com/bebatut/status/968093992578580480?ref_src=twsrc%5Etfw">26 février 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Kicking off <a href="https://twitter.com/hashtag/usegalaxy?src=hash&amp;ref_src=twsrc%5Etfw">#usegalaxy</a> <a href="https://twitter.com/hashtag/microbiome?src=hash&amp;ref_src=twsrc%5Etfw">#microbiome</a> workshop at University of Costa Rica. Looking forward to arrival of <a href="https://twitter.com/SarahJCCraig?ref_src=twsrc%5Etfw">@SarahJCCraig</a> &amp; <a href="https://twitter.com/DBlankenberg?ref_src=twsrc%5Etfw">@DBlankenberg</a>. Thx to Rebeca Campos Sanchez for invite! <a href="https://t.co/1GEEj968JC">pic.twitter.com/1GEEj968JC</a></p>&mdash; Kateryna (@MakovaLab) <a href="https://twitter.com/MakovaLab/status/949430737127780353?ref_src=twsrc%5Etfw">6 janvier 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/denbi?src=hash&amp;ref_src=twsrc%5Etfw">#denbi</a> de.STAIR training on RNA-Seq data analysis at <a href="https://twitter.com/kieluni?ref_src=twsrc%5Etfw">@kieluni</a> <a href="https://twitter.com/denbiOffice?ref_src=twsrc%5Etfw">@denbiOffice</a> <a href="https://twitter.com/hashtag/usegalaxy?src=hash&amp;ref_src=twsrc%5Etfw">#usegalaxy</a> <a href="https://t.co/FeDrsP6aAP">https://t.co/FeDrsP6aAP</a> <a href="https://t.co/GW7TqsSIAk">pic.twitter.com/GW7TqsSIAk</a></p>&mdash; de.STAIR (@denbi_deSTAIR) <a href="https://twitter.com/denbi_deSTAIR/status/971327360355139587?ref_src=twsrc%5Etfw">7 mars 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![Emails](images/emails.png) <!-- .element width="100%" -->
 
 ----
-### Used both by instructors & individual users
+### Used both by individual users & instructors
+
+![GTN events](images/gtn_events.png) <!-- .element width="80%" -->
+
+----
+### Used both by individual users & instructors
+
+![GTN events](images/gtn_events_worldwide.png) <!-- .element width="90%" -->
 
 ---
 ### Requirements for a training infrastructure
@@ -229,21 +222,6 @@ Creating a small tutorial
         - an image
 
 ----
-### Galaxy Tour Builder
-#### A web extension to develop interactive tours
-
-![](images/tour_builder.gif) <!-- .element width="85%" -->
-
-https://github.com/TailorDev/galaxy-tourbuilder
-
-Note:
-
-Demo
-- New Env
-- Upload: https://zenodo.org/record/1185122/files/Drosophila_melanogaster.BDGP6.87.gene_lengths
-- Search tool
-
-----
 ### One GitHub repository to collect everything
 
 ![](images/infra_1.png) <!-- .element width="90%" -->
@@ -267,6 +245,16 @@ Note:
     - website regeneration
 
 ----
+### Community-driven
+
+![PR/Issues in GTN](images/contributions.png) <!-- .element width="80%" -->
+
+----
+### Community-driven
+
+![PR/Issues in GTN](images/contributions_with_hackathon.png) <!-- .element width="80%" -->
+
+----
 ### A constant support
 
 ![Gitter screenshot](images/gitter.png) <!-- .element height="70%" width="70%" -->
@@ -274,21 +262,39 @@ Note:
 Gitter: [Galaxy-Training-Network/Lobby](https://gitter.im/Galaxy-Training-Network/Lobby)
 
 ----
-### Community-driven
+### Galaxy Tour Builder
+#### A web extension to develop interactive tours
 
-PR? Issues?
+![](images/tour_builder.gif) <!-- .element width="85%" -->
+
+https://github.com/TailorDev/galaxy-tourbuilder
+
+Note:
+
+Demo
+- New Env
+- Upload: https://zenodo.org/record/1185122/files/Drosophila_melanogaster.BDGP6.87.gene_lengths
+- Search tool
 
 ----
 ### Ensuring accessibility of tutorials
 
 ![](images/infra_3.png) <!-- .element width="90%" -->
 
-???
+Note:
+
 Every Galaxy instance 
 
 - Tools
 - Data
 - Docker images
+
+----
+### TeSS: the ELIXIR's training portal
+
+![TeSS](images/tess.png) <!-- .element width="80%" -->
+
+https://tess.elixir-europe.org/
 
 ----
 ### Findable, Accessible, Interoperable, Reusable
@@ -300,15 +306,6 @@ Note:
 - YAML
 - TeSS
 - EDAM
-
-----
-### TeSS: the ELIXIR's training portal
-
-<iframe src="https://tess.elixir-europe.org/content_providers/galaxy-training"
-height="450" width="100%" style="border:2px solid grey;">
-</iframe>
-
-https://tess.elixir-europe.org/
 
 ---
 ### Requirements for a training infrastructure
@@ -323,9 +320,6 @@ https://tess.elixir-europe.org/
         <p><i class="fa fa-check-square-o"></i> Open</p>
     </li>
 </ul>
-
----
-### Next steps?
 
 ---
 <!-- .slide: data-background-color="#000000" data-background="images/contributors.png" data-state="dim-background-2"-->
