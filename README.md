@@ -6,8 +6,9 @@ This repository served the slides for my talks.
 
 Year | Date | Event | Location | Title
 --- | --- | --- | --- | ---
-[2018](18/) | 12.02 | 33rd TBI Winterseminar | Bled, Slovenia | [Building an open, collaborative, online infrastructure for bioinformatics training](18/02_12_bled)
- | 16.03 | Galaxy User Conference | Freiburg, Germany | [The Galaxy Training Network](18/03_16_galaxy_user_conf)
+[2018](18/) | 04.04 | [Galaxy Africa](http://galaxyafrica.sanbi.ac.za/) | Cape Town, South Africa | [Community-driven training for biological data analysis with the Galaxy Training Network](04_04_galaxy_africa)
+  | 16.03 | Galaxy User Conference | Freiburg, Germany | [The Galaxy Training Network](18/03_16_galaxy_user_conf)
+  | 12.02 | 33rd TBI Winterseminar | Bled, Slovenia | [Building an open, collaborative, online infrastructure for bioinformatics training](18/02_12_bled)
 [2017](17/) | 23.11 | Backofen Lab meeting | Freiburg | [Beer Decoded-Exploring the beer metagenome](17/11_23_backofen_lab_meeting)
 
 
