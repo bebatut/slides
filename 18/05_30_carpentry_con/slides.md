@@ -36,13 +36,11 @@ CarpentryCon - May 2018
 - No issue with computer configuration during training
 
 ---
-### Requirements for an effective training infrastructure
+### Online training material covering many topics
 
-- Interactive learning platform
-- Support for current research problems
-- Usable for effective training for individual users & instructors
-- Community driven (content creation and maintenance)
-- FAIR (Findable, Accessible, Interoperable, Reusable) and Open
+![PR/Issues in GTN](images/training_website.png) <!-- .element width="80%" -->
+
+https://training.galaxyproject.org
 
 ---
 ### Interactive learning via hands-on tutorials built around a "research story"
@@ -64,11 +62,14 @@ Metadata to help trainees and instructors to keep track of the training goads
 - Questions: Regular assessments with question boxes
 
 ---
-### Online training material covering many topics
+### An effective training infrastructure
 
-![PR/Issues in GTN](images/training_website.png) <!-- .element width="80%" -->
-
-https://training.galaxyproject.org
+- Interactive learning platform
+- Support for current research problems
+- Usable for effective training for individual users & instructors
+- FAIR (Findable, Accessible, Interoperable, Reusable) and Open
+- Technical support (tools, data, etc)
+- Community driven (content creation and maintenance)
 
 ---
 ### Community-driven
