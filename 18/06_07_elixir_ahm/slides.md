@@ -64,7 +64,7 @@ Metadata to help trainees and instructors to keep track of the training goads
 - Questions: Regular assessments with question boxes
 
 ---
-### An effective training infrastructure
+### An effective (FAIR) training infrastructure
 
 ![Infrastructure](images/infra_4.png) <!-- .element width="90%" -->
 
