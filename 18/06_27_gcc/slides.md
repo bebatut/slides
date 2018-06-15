@@ -56,15 +56,17 @@ https://github.com/galaxyproject/training-material
 Talks at [GCC](https://bebatut-slides.github.io/gcc_06_17/#/1) and [BOSC](https://bebatut-slides.github.io/bosc_07_17/#/1)
 
 ---
-## A fruitful year: <br>more content
+## A fruitful year: <br>more and better content
+
+![Number of topics/tutorials](images/repo_content_stat_plot.png)<!-- .element width="70%" -->
 
 ----
-### New topics
+### New + restructed topics
 
 ![New topics](images/topics.png)<!-- .element width="80%" -->
 
 ----
-### New tutorials and new content
+### New + restructed tutorials
 
 ![Changes in content](images/tutorials.png)
 
@@ -77,13 +79,11 @@ Some tutorials has been restructured, improved or updated to use the state of th
 
 ![Changes in content](images/contributing_topic.png)<!-- .element width="90%" -->
 
-Note:
-- FAQ
  
 ---
 ## A fruitful year: <br>more technical support for training
 
-![Changes in content](images/tech_support_prop_plot.png)
+![Changes in content](images/tech_support_prop_plot.png)<!-- .element width="70%" -->
 
 ----
 ### Galaxy Tour Builder
@@ -105,36 +105,29 @@ https://github.com/TailorDev/galaxy-tourbuilder
 ![TIaaS explanation](images/tiaas.png) <!-- .element width="80%" -->
 
 ---
-## A fruitful year: <br>better website
+## A fruitful year: <br>improved Website
 
 ![Website reshape](images/website_reshape.png) <!-- .element width="90%" -->
 
 https://training.galaxyproject.org
 
 Note:
-- Expandable boxes
-- tags
 - Bio.schemas support
 
----
-<!-- .slide: data-background="images/contributors.png" data-state="dim-background-2"-->
-## A fruitful year: <br>a GREAT community!
+----
+### Tags, expandable boxes and co
 
-Note:
-- number of new contributors since last year?
+![More for website](images/more_for_website.png) <!-- .element width="100%" -->
 
 ----
-### Hall of fame
+### FAQ
 
-![Hall of fame](images/hall-of-fame.png) <!-- .element width="80%" -->
+![FAQ page](images/faq.png)<!-- .element width="65%" -->
 
-https://training.galaxyproject.org/hall-of-fame
-
-----
-### Contribution Fests
+https://training.galaxyproject.org/faq
 
 ---
-## A fruitful year: <br>An (unexpected) great article
+## A fruitful year: <br>a great article
 
 ![Screenshot of biorxiv repo](images/biorxiv_screenshot.png) <!-- .element width="60%" -->
 
@@ -143,18 +136,45 @@ Published today!
 <i class="ai ai-biorxiv"></i> [Community-driven data analysis training for biology](https://www.biorxiv.org/content/early/2017/11/29/225680)<br><br>
 
 ---
-### A next fruitful year
-
-- Contribution Fests
-    - every 3 months
-    - BioHackathon in Paris
-- Mentorship
-- Improvement of the contribution experience
-- Train the trainers with ELIXIR and The Carpentries (??)
-- Internationalization
+<!-- .slide: data-background="images/contributors.png" data-state="dim-background-2"-->
+## A fruitful year: <br>an AWESOME community!
 
 Note:
-- Survey
+- > 70 contributors
+- + >30 compared to last year
+
+----
+### Hall of fame
+
+![Hall of fame](images/hall_of_fame.png) <!-- .element width="75%" -->
+
+https://training.galaxyproject.org/hall-of-fame
+
+----
+### Contribution Fests
+
+![Past Contribution Fests](images/past_contribution_fest.png)
+
+---
+## A Similarly Fruitful Future?
+
+- For Users
+    - More content!
+    - Topic-specific curriculum
+    - Internationalization
+- For Instructors
+    - Mentorship
+    - Train the trainers (ELIXIR and The Carpentries)?
+- For Contributors
+    - Improvement of the contribution experience
+    - Per-tutorial article?
+
+----
+## A Similarly Fruitful Future?
+
+More Contribution Fests!
+   
+![Next Contribution Fests](images/next_contribution_fests.png)
 
 ---
 ## Thank you!
@@ -162,13 +182,14 @@ Note:
 <div id="left">
 ![](images/poster.png) <!-- .element width="80%" -->
 
+Poster G31 (tonight)
+
 </div>
 
 <div id="right">
 
 <section style="text-align: left; margin-top: 2em;">
-
-Poster & BoF<br><br>
+BoF Tomorrow at lunch<br><br>
 
 <i class="ai ai-biorxiv"></i> [Community-driven data analysis training for biology](https://www.biorxiv.org/content/early/2017/11/29/225680)<br><br>
 
