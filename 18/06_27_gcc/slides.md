@@ -7,7 +7,6 @@ This slide does not exist in original deck. It is useful if you are not familiar
 The easiest way to navigate this slide deck is by hitting `[space]`on your keyboard.
 
 ---
-
 ### A fruitful year for the Galaxy Training materials
 
 ![Cover art](images/cover_art.png) <!-- .element width="60%" -->
@@ -19,7 +18,7 @@ GCC/BOSC - June 2018
 </small>
 
 ---
-## Galaxy Training materials
+### Galaxy Training materials
 
 ![Screenshot of the website](images/website_screenshot.png) <!-- .element width="70%" -->
 
@@ -35,7 +34,7 @@ One website, aggregating training material covering many current research topics
 ![Screenshot with 2 web-browsers open side-by-side: one pointed at the current tutorial and the other at a Galaxy instance](images/interactive_hands_on.png) <!-- .element width="100%" -->
 
 <small>
-Usable for effective training for individual users & instructors
+Usable by individual users & instructors
 </small>
 
 ----
@@ -46,17 +45,14 @@ Usable for effective training for individual users & instructors
 https://github.com/galaxyproject/training-material
 
 ---
-## Last year: 1st year of the project
+### Last year: 1st year of the project
 
-<iframe
-    src="https://bebatut-slides.github.io/gcc_06_17/#/1"
-    height="450" width="100%" style="border:2px solid grey;">
-</iframe>
+![Last year talk](images/last_year_talk.png)<!-- .element width="90%" -->
 
 Talks at [GCC](https://bebatut-slides.github.io/gcc_06_17/#/1) and [BOSC](https://bebatut-slides.github.io/bosc_07_17/#/1)
 
 ---
-## A fruitful year: <br>more and better content
+### A fruitful year: <br>more and better content
 
 ![Number of topics/tutorials](images/repo_content_stat_plot.png)<!-- .element width="70%" -->
 
@@ -79,9 +75,8 @@ Some tutorials has been restructured, improved or updated to use the state of th
 
 ![Changes in content](images/contributing_topic.png)<!-- .element width="90%" -->
 
- 
 ---
-## A fruitful year: <br>more technical support for training
+### A fruitful year: <br>more technical support for training
 
 ![Changes in content](images/tech_support_prop_plot.png)<!-- .element width="70%" -->
 
@@ -105,7 +100,7 @@ https://github.com/TailorDev/galaxy-tourbuilder
 ![TIaaS explanation](images/tiaas.png) <!-- .element width="80%" -->
 
 ---
-## A fruitful year: <br>improved Website
+### A fruitful year: <br>am improved website
 
 ![Website reshape](images/website_reshape.png) <!-- .element width="90%" -->
 
@@ -127,13 +122,13 @@ Note:
 https://training.galaxyproject.org/faq
 
 ---
-## A fruitful year: <br>a great article
+### A fruitful year: <br>a great article
 
-![Screenshot of biorxiv repo](images/biorxiv_screenshot.png) <!-- .element width="60%" -->
+![Screenshot of biorxiv repo](images/article.png) <!-- .element width="80%" -->
 
-Published today!
+<i class="fa fa-award"></i> Released this morning!
 
-<i class="ai ai-biorxiv"></i> [Community-driven data analysis training for biology](https://www.biorxiv.org/content/early/2017/11/29/225680)<br><br>
+[Community-driven data analysis training for biology](https://bit.ly/2lEvhJW)
 
 ---
 <!-- .slide: data-background="images/contributors.png" data-state="dim-background-2"-->
@@ -180,7 +175,8 @@ More Contribution Fests!
 ## Thank you!
 
 <div id="left">
-![](images/poster.png) <!-- .element width="80%" -->
+![](images/poster.png) <!-- .element width="75%" -->
+<br>
 
 Poster G31 (tonight)
 
@@ -191,7 +187,7 @@ Poster G31 (tonight)
 <section style="text-align: left; margin-top: 2em;">
 BoF Tomorrow at lunch<br><br>
 
-<i class="ai ai-biorxiv"></i> [Community-driven data analysis training for biology](https://www.biorxiv.org/content/early/2017/11/29/225680)<br><br>
+<i class="fa fa-file"></i> [Community-driven data analysis training for biology](https://bit.ly/2lEvhJW)<br><br>
 
 <i class="fa fa-globe"></i> [training.galaxyproject.org](http://training.galaxyproject.org)<br><br>
 
