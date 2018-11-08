@@ -107,17 +107,13 @@ GTN hackathon this Thursday
 
 ![](images/hall_of_fame.png) <!-- .element width="90%" -->
 
-This project would not be possible without its contributors
-
-Note:
-
-Gitter, regular online CoFests
+*This project would not be possible without its contributors*
 
 ---
 ## Thank you!
 ### Join us for this hackathon!
 
-![](images/qr-gtn-darkblue.png) <!-- .element width="25%" -->
+![](images/qr-gtn-darkblue.png) <!-- .element width="20%" -->
 
 <i class="fa fa-github"></i> [github.com/galaxyproject/training-material](http://github.com/galaxyproject/training-material)
 
