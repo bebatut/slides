@@ -3,6 +3,7 @@
 
 Date | Event | Location | Title
 --- | --- | --- | ---
+20.11 | [European Galaxy Days](https://galaxyproject.org/events/2018-europe-dev/) | Freiburg, Germany | [Update on the Galaxy Training Network](18/11_20_egd)
 12.11 | [Biohackathon](http://bh2018paris.info/) | Paris, FR | [Galaxy training material](11_12_biohackathon)
 29.11 | [Basel Computational Biology Seminar](https://www.biozentrum.unibas.ch/news-events/events/seminar-series/basel-computational-biology-seminar-series-spring-2018-bc2/) | Basel, CH | [The daily life of a bioinformatician: multi-faceted computational analysis of a biological system](10_29_comp_sys_bio_seminar)
 27.06 | [GCC/BOSC](https://gccbosc2018.sched.com/) | Portland, US | [A fruitful year for the Galaxy Training materials](06_27_gcc)
