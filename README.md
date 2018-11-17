@@ -7,6 +7,7 @@ This repository served the slides for my talks.
 Year | Date | Event | Location | Title
 --- | --- | --- | --- | ---
 [2018](18/) | 20.11 | [European Galaxy Days](https://galaxyproject.org/events/2018-europe-dev/) | Freiburg, Germany | [Update on the Galaxy Training Network](18/11_20_egd)
+[2018](18/) | 19.11 | [European Galaxy Days](https://galaxyproject.org/events/2018-europe-dev/) | Freiburg, Germany | [RNA-Seq data analysis in Galaxy: Lessons learned and what next?](18/11_19_egd)
 [2018](18/) | 12.11 | [Biohackathon](http://bh2018paris.info/) | Paris, France | [Galaxy training material](18/11_12_biohackathon)
 [2018](18/) | 29.10 | [Basel Computational Biology Seminar](https://www.biozentrum.unibas.ch/news-events/events/seminar-series/basel-computational-biology-seminar-series-spring-2018-bc2/) | Basel, Switzerland | [The daily life of a bioinformatician: multi-faceted computational analysis of a biological system](18/10_29_comp_sys_bio_seminar)
 [2018](18/) | 27.06 | [GCC/BOSC](https://gccbosc2018.sched.com/) | Portland, USA | [A fruitful year for the Galaxy Training materials](18/06_27_gcc)
