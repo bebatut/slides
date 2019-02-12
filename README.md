@@ -18,6 +18,16 @@ Year | Date | Event | Location | Title
 [2018](18/) | 16.03 | Galaxy User Conference | Freiburg, Germany | [The Galaxy Training Network](18/03_16_galaxy_user_conf)
 [2018](18/) | 12.02 | 33rd TBI Winterseminar | Bled, Slovenia | [Building an open, collaborative, online infrastructure for bioinformatics training](18/02_12_bled)
 [2017](17/) | 23.11 | Backofen Lab meeting | Freiburg | [Beer Decoded-Exploring the beer metagenome](17/11_23_backofen_lab_meeting)
+[2017](17/) | 02 | Backofen Lab meeting | Freiburg, Germany | [Reductive genome evolution of bacterial genomes](17/02_backofen_lab_meeting)
+[2017](17/) | 02 | Hess Lab meeting | Germany | [Analyses of Prochlorococcus genomes in a phylogenetic framework](17/02_hess_lab_meeting)
+[2017](17/) | 05 | Backofen Lab retreat | Germany | [Playing with metagenomics data, databases and assemblers](17/04_backofen_lab_retreat)
+[2017](17/) | 06 | Galaxy Community Conference | Montpellier, France | [Building an open, collaborative, online infrastructure for bioinformatics training](17/06_gcc)
+[2017](17/) | 07 | BOSC | Prag, Czech Republic | [Building an open, collaborative, online infrastructure for bioinformatics training](17/07_bosc)
+[2017](17/) | 10 | de.NBIer | Heidelberg, Germany| [User-focused programming / development: Example of the Galaxy Project](17/10_de_NBIer)
+[2016](16/) | 12 | GalaxyAdmins Meetup | Online | [Galaxy Training Materials: Community creation, curation, and use](16/12_galaxy_admin_meetup)
+[2016](16/) | 11 | Bioinformatics for Human Health and Disease | Heidelberg, Germany | [Tool deployment and sustainability in bioinformatics: Fixed!](16/11_de_nbi_heidelberg)
+[2016](16/) | 20.10 | Swiss German Galaxy Days | Freiburg, Germany | [Galaxy Training Network - rebooted](16/10_swiss_german_galaxy_days)
+[2016](16/) | 25.05 | Galaxy Workshop | Clermont-Ferrand, France | [Integration of tools in Galaxy environment](16/05_galaxy_workshop)
 
 
 # Usage
