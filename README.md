@@ -6,6 +6,7 @@ This repository served the slides for my talks.
 
 Year | Date | Event | Location | Title
 --- | --- | --- | --- | ---
+[2019](19/) | 06.02 | [Boost Your Visibility – Improving F of FAIR for Dutch Training and Data Resources through Bioschemas](https://www.dtls.nl/courses/boost-your-visibility-improving-f-of-fair-for-dutch-training-and-data-resources-through-bioschemas/) | Utrecht, Netherlands | [Galaxy Training Network and Schema.org](19/02_07_bioschemas)
 [2018](18/) | 20.11 | [European Galaxy Days](https://galaxyproject.org/events/2018-europe-dev/) | Freiburg, Germany | [Update on the Galaxy Training Network](18/11_20_egd)
 [2018](18/) | 19.11 | [European Galaxy Days](https://galaxyproject.org/events/2018-europe-dev/) | Freiburg, Germany | [RNA-Seq data analysis in Galaxy: Lessons learned and what next?](18/11_19_egd)
 [2018](18/) | 12.11 | [Biohackathon](http://bh2018paris.info/) | Paris, France | [Galaxy training material](18/11_12_biohackathon)
@@ -34,30 +35,26 @@ Year | Date | Event | Location | Title
 
 The slides are written in markdown ([slides.md](slides.md)), rendered using [reveal.js](https://github.com/hakimel/reveal.js/) and served using GitHub on http://bebatut.fr/talk_slides/
 
-## Requirements
-
-- Reveal.js is added here as a submodule:
-
-    ```
-    $ git submodule init
-    $ git submodule update
-    ```
-
-- Decktape to extract
-
-    ```
-    $ npm install decktape
-    ```
-
-## Slide generation
-
-To visualize the slides, you need to launch a local server:
+## Install the requirements
 
 ```
-$ php -S localhost:8000
+$ make install
 ```
 
-and then open any web browser at the adress: [http://localhost:8000](http://localhost:8000).
+It will:
+
+- Add Reveal.js here as a submodule
+- Install Decktape
+
+## Serve and generate the slides
+
+```
+$ make serve
+```
+
+It will launch a local server to visualize the slides.
+
+You can then open any web browser at the adress: [http://localhost:8000](http://localhost:8000).
 
 ## PDF generation
 
