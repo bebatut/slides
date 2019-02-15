@@ -51,3 +51,7 @@ exclude:
   - node_modules/
 include:
   - .nojekyll
+
+
+plugins:
+  - jekyll-github-metadata
