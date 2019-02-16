@@ -10,9 +10,9 @@ layout: base
 
 Date | Event | Location | Slides
 --- | --- | --- | ---
-20.02 | [ELIXIR Bioinformatics Training Tools Workshop](http://elixir-hungary.org/?q=node/50) | Debrecen, Hungary | [Galaxy Training Network]({{ site.baseurl }}{% link 19/02_20_galaxy_training_network/index.html %})
-20.02 | [ELIXIR Bioinformatics Training Tools Workshop](http://elixir-hungary.org/?q=node/50) | Debrecen, Hungary | [The Carpentries]({{ site.baseurl }}{% link 19/02_20_carpentries/index.html %})
-06.02 | [Boost Your Visibility – Improving F of FAIR for Dutch Training and Data Resources through Bioschemas](https://www.dtls.nl/courses/boost-your-visibility-improving-f-of-fair-for-dutch-training-and-data-resources-through-bioschemas/) | Utrecht, Netherlands | [Galaxy Training Network and Schema.org]({{ site.baseurl }}{% link 19/02_07_bioschemas/index.html %})
+20.02 | [ELIXIR Bioinformatics Training Tools Workshop](http://elixir-hungary.org/?q=node/50) | Debrecen, Hungary | [Galaxy Training Network]({% link 19/02_20_galaxy_training_network/index.html %})
+20.02 | [ELIXIR Bioinformatics Training Tools Workshop](http://elixir-hungary.org/?q=node/50) | Debrecen, Hungary | [The Carpentries]({% link 19/02_20_carpentries/index.html %})
+06.02 | [Boost Your Visibility – Improving F of FAIR for Dutch Training and Data Resources through Bioschemas](https://www.dtls.nl/courses/boost-your-visibility-improving-f-of-fair-for-dutch-training-and-data-resources-through-bioschemas/) | Utrecht, Netherlands | [Galaxy Training Network and Schema.org]({% link 19/02_07_bioschemas/index.html %})
 
 ## 2018
 

@@ -1,11 +1,7 @@
-# Welcome to Jekyll!
----
 title: Slides for talks - Bérénice Batut
 email: berenice.batut@gmail.com
 description: >
   This repository served the slides for my talks
-url: "http://bebatut.fr/"
-baseurl: "/talks/"
 repository: "bebatut/talks"
 twitter: bebatut
 linkedin: berenicebatut
